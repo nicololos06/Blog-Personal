@@ -254,12 +254,6 @@ nav {
   border: 1px solid var(--border2);
 }
 
-/* 
-  ══════════════════════════════════════════════════
-  FOTO DE PERFIL — reemplazá la ruta del src abajo
-  con la ruta a tu imagen (ej: "foto.jpg" o "./img/nicolas.png")
-  ══════════════════════════════════════════════════
-*/
 .photo-frame img {
   width: 100%;
   height: 100%;
